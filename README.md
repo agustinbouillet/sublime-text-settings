@@ -11,3 +11,9 @@ git clone https://github.com/agustinbouillet/sublime-text-settings.git User
 
 2. Instalar Package Control
 https://packagecontrol.io/installation#st3
+
+3. Crear alias `subl`
+
+```
+ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/sublime
+```
