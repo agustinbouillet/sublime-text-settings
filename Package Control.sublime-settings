@@ -6,9 +6,13 @@
 	"installed_packages":
 	[
 		"Anaconda",
+		"Case Conversion",
+		"Color Highlight",
 		"Djaneiro",
+		"DocBlockr",
 		"Emmet",
 		"GitGutter",
+		"HTML-CSS-JS Prettify",
 		"MarkdownPreview",
 		"Package Control",
 		"requirementstxt",
@@ -22,6 +26,7 @@
 		"SublimeLinter-pep8",
 		"SublimeLinter-pydocstyle",
 		"SublimeLinter-pyflakes",
+		"Terminal",
 		"Theme - Flatland",
 		"Theme - Soda"
 	]
