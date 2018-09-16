@@ -2,7 +2,7 @@
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"draw_white_space": "all",
 	"font_face": "menlo",
-	"font_size": 13,
+	"font_size": 15,
 	"ignored_packages":
 	[
 		"Vintage"

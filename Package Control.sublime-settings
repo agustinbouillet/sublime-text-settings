@@ -5,9 +5,11 @@
 	],
 	"installed_packages":
 	[
+		"Alignment",
 		"Anaconda",
 		"Case Conversion",
 		"Color Highlight",
+		"Color Highlighter",
 		"CSS Format",
 		"Djaneiro",
 		"DocBlockr",
@@ -27,6 +29,7 @@
 		"SublimeLinter-pep8",
 		"SublimeLinter-pydocstyle",
 		"SublimeLinter-pyflakes",
+		"SyntaxHighlighter Reloaded Color Scheme",
 		"Terminal",
 		"Theme - Flatland",
 		"Theme - Soda"
