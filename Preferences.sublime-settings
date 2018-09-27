@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Colorsublime - Themes/cache/Colorsublime-Themes-master/themes/DarkMosquito.tmTheme",
+	"color_scheme": "Packages/Colorsublime - Themes/Flatland_Dark.tmTheme",
 	"ignored_packages":
 	[
 		"Alignment",
@@ -13,5 +13,5 @@
 		"TrailingSpaces",
 		"Vintage"
 	],
-	"theme": "Soda Dark.sublime-theme"
+	"theme": "Adaptive.sublime-theme"
 }

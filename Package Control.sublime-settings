@@ -9,8 +9,11 @@
 		"Anaconda",
 		"Color Highlight",
 		"Colorsublime",
+		"CSS Format",
 		"Djaneiro",
 		"Package Control",
-		"requirementstxt"
+		"requirementstxt",
+		"Sass",
+		"SublimeLinter"
 	]
 }
