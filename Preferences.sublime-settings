@@ -2,6 +2,15 @@
 	"color_scheme": "Packages/Colorsublime - Themes/cache/Colorsublime-Themes-master/themes/DarkMosquito.tmTheme",
 	"ignored_packages":
 	[
+		"Alignment",
+		"Case Conversion",
+		"Color Highlighter",
+		"DocBlockr",
+		"Emmet",
+		"Python Breakpoints",
+		"SublimeLinter-csslint",
+		"SublimeLinter-pyflakes",
+		"TrailingSpaces",
 		"Vintage"
 	],
 	"theme": "Soda Dark.sublime-theme"
