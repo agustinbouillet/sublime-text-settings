@@ -5,35 +5,11 @@
 	],
 	"installed_packages":
 	[
-		"Alignment",
+		"1337 Color Scheme",
 		"Anaconda",
-		"Case Conversion",
 		"Color Highlight",
-		"Color Highlighter",
-		"CSS Format",
+		"Colorsublime",
 		"Djaneiro",
-		"DocBlockr",
-		"Emmet",
-		"GitGutter",
-		"HTML-CSS-JS Prettify",
-		"MarkdownPreview",
-		"Package Control",
-		"Python Breakpoints",
-		"requirementstxt",
-		"Sass",
-		"SideBarEnhancements",
-		"SublimeLinter",
-		"SublimeLinter-csslint",
-		"SublimeLinter-html-tidy",
-		"SublimeLinter-jshint",
-		"SublimeLinter-json",
-		"SublimeLinter-pep8",
-		"SublimeLinter-pydocstyle",
-		"SublimeLinter-pyflakes",
-		"SyntaxHighlighter Reloaded Color Scheme",
-		"Terminal",
-		"Theme - Flatland",
-		"Theme - Soda",
-		"TrailingSpaces"
+		"requirementstxt"
 	]
 }

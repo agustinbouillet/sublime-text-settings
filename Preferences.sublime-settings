@@ -1,18 +1,8 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
-	"draw_white_space": "all",
-	"font_face": "menlo",
-	"font_size": 14,
+	"color_scheme": "Packages/Colorsublime - Themes/Flatland_Dark.tmTheme",
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"rulers":
-	[
-		72,
-		79
-	],
-	"tab_size": 2,
-	"theme": "Flatland Dark.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"theme": "Flatland Dark.sublime-theme"
 }
