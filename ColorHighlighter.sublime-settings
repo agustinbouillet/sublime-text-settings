@@ -1,9 +1,5 @@
 {
-	"default_keybindings": true,
-	"experimental":
-	{
-		"asynchronosly_update_color_scheme": true
-	},
+	"default_keybindings": false,
 	"ha_style": "filled",
 	"search_colors_in":
 	{
@@ -14,12 +10,12 @@
 				"color_scheme":
 				{
 					"enabled": true,
-					"highlight_style": "filled"
+					"highlight_style": "text"
 				},
 				"gutter_icons":
 				{
 					"enabled": true,
-					"icon_style": "circle"
+					"icon_style": "square"
 				},
 				"phantoms":
 				{
@@ -36,19 +32,19 @@
 			{
 				"color_scheme":
 				{
-					"enabled": false,
+					"enabled": true,
 					"highlight_style": "filled"
 				},
 				"gutter_icons":
 				{
-					"enabled": false,
+					"enabled": true,
 					"icon_style": "circle"
 				},
 				"phantoms":
 				{
-					"enabled": false,
+					"enabled": true,
 					"length": 2,
-					"style": "right"
+					"style": "inline"
 				}
 			},
 			"enabled": true
