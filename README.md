@@ -15,5 +15,12 @@ https://packagecontrol.io/installation#st3
 3. Crear alias `subl`
 
 ```
-ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/sublime
+ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/sublimebash
+
+```
+
+Crear un alias en `~/.profile`, Linux (Mint) 
+
+```bash
+alias subl = /opt/sublime_text/sublime_text
 ```
