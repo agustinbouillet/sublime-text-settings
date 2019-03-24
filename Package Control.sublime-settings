@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"Anaconda",
 		"BracketHighlighter",
 		"Case Conversion",
 		"Color Highlight",
@@ -14,7 +15,11 @@
 		"Djaneiro",
 		"DocBlockr",
 		"Emmet",
+		"Go To Definition",
 		"HTML-CSS-JS Prettify",
+		"HTMLBeautify",
+		"isort",
+		"JavaScript Completions",
 		"MarkdownPreview",
 		"Package Control",
 		"Python Breakpoints",
