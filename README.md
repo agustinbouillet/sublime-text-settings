@@ -24,3 +24,14 @@ Crear un alias en `~/.profile`, Linux (Mint)
 ```bash
 alias subl = /opt/sublime_text/sublime_text
 ```
+
+## Configuración Linux
+
+### Comentarios
+
+```json
+[
+    { "keys": ["ctrl+keypad_divide"], "command": "toggle_comment", "args": { "block": false } },
+    { "keys": ["ctrl+shift+keypad_divide"], "command": "toggle_comment", "args": { "block": true } },   
+]
+```
